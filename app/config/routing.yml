@@ -1,0 +1,4 @@
+best_trip_admin:
+    resource: "@BestTripAdminBundle/Resources/config/routing.yml"
+    prefix:   /
+

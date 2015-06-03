@@ -1,0 +1,7 @@
+parameters:
+#    best_trip_admin.example.class: BestTrip\AdminBundle\Example
+
+services:
+#    best_trip_admin.example:
+#        class: %best_trip_admin.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

@@ -1,0 +1,3 @@
+best_trip_admin_homepage:
+    pattern:  /
+    defaults: { _controller: BestTripAdminBundle:Default:index }
